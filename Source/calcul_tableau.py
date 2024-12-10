@@ -28,7 +28,7 @@ def createTab(joueurs, nom_tournoi):
         game[0] = "[" + str(game[0]) + "]" + " " + joueurs[game[0]-1]
         game[1] = "[" + str(game[1]) + "]" + " " + joueurs[game[1]-1]
 
-    with open(f"Tableau {nom_tournoi}.txt", "w") as fichier:
+    with open(f"Tableaux/Tableau {nom_tournoi}.txt", "w") as fichier:
 
         for games in tab:
             fichier.write(str(games[0]) + "\n" + str(games[1]) + "\n" + "\n")
