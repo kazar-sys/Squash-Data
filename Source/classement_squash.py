@@ -31,7 +31,7 @@ import numpy as np
 
 
 # Chemin vers votre fichier Excel
-excel_file = 'Actions Simon.xlsx'
+excel_file = "Data/Actions Simon.xlsx"
 
 # Lire le fichier Excel
 df = pd.read_excel(excel_file)
