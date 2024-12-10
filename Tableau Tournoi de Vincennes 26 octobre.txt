@@ -1,0 +1,23 @@
+[1] BOUTIGNY Simon 4C
+[16] GUENOUN David NC
+
+[9] FAURE Gregoire 4D
+[8] SUTTO Cedric 4D
+
+[5] DABOUSSI Elias 4D
+[12] MALANDAIN Arnaud 5B
+
+[13] FUCHS Adrien 5B
+[4] FRADIN Cyrille 4C
+
+[3] VALLET Francois 4C
+[14] FUCHS Lancelot 5C
+
+[11] VIALLA Pierre 5A
+[6] MOZZICONACCI Simon-Francois 4D
+
+[7] BOYA Gilles 4D
+[10] OLLIVIER Jean-Claude 4D
+
+[15] COBO Maxence 5C
+[2] ZARKA Simon 4C
