@@ -38,16 +38,32 @@ def createTab(joueurs, nom_tournoi):
 
 
 # Input : liste de joueurs
-nom_tournoi = "Tournoi de Blois 30 novembre"
+nom_tournoi = "Tournoi de Vincennes 13-14 décembre"
 joueurs = [
-    "MERLAND RENAUD 3B 572",
-    "JULIAN TRISTAN 3C 741",
-    "MAGUERA OSCAR 3D 964",
-    "BOUTET HUGUES 4A 1069",
-    "GUINE YAEL 4A 1111",
-    "CYRILE CHARLY 4A 1153",
-    "LAVIELLE PASCAL 4A 1268",
-    "ZARKA SIMON 4B 1603"
+    "TULLIS MALCOLM 2B 81",
+    "BONHOMME THOMAS 2C 141",
+    "ZRIHEN GUILLAUME 2C 191",
+    "QUENNEHEN BORIS 2D 218",
+    "BARBET JULES 2D 261",
+    "LECOQ MARCEAU 2D 282",
+    "MAUSSION JULIEN 3A 314",
+    "CAYET LAURENT 3B 459",
+    "DE ZEEUW JEAN-LUC 3B 462",
+    "BEAU AXEL 3B 502",
+    "PHAM-GIA VINH 3B 515",
+    "SCHOCH GILLES 3B 541",
+    "CANDUS EMMANUEL 3B 554",
+    "RAMEAU NATHANIEL 3B 563",
+    "VERY DANY 3B 581",
+    "RAMEAU ADAM 3C 617",
+    "MESSINESI PAUL 3C 625",
+    "PIQUERAS JULES 3C 654",
+    "LLEDO ANTOINE 3C 659",
+    "ROUSSET ANTONIN 3C 677",
+    "FAUTHOUX YOHAN 3D 792",
+    "WAISBLAT ARTHUR 3D 907",
+    "MOHAMMAD SAQUIB 3D 909",
+    "ZARKA SIMON 3D 968"
 ]
 
 createTab(joueurs, nom_tournoi)
