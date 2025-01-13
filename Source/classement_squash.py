@@ -85,8 +85,10 @@ donnees = []
 for index, row in df.iterrows():
 
     # Ajouter la ligne à la liste de données
-
-    donnees.append({'Points': int(row['Points']), 'Date': row['Date'], 'Expired': False, 'Type': row['Type de tournoi'], 'Localisation': row['Type de points']})
+    if row['Points'] == int(row['Points']):
+        donnees.append({'Points': int(row['Points']), 'Date': row['Date'], 'Expired': False, 'Type': row['Type de tournoi'], 'Localisation': row['Type de points']})
+    else:
+        donnees.append({'Points': float(row['Points']), 'Date': row['Date'], 'Expired': False, 'Type': row['Type de tournoi'], 'Localisation': row['Type de points']})
 
 
 
