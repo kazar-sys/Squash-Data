@@ -360,7 +360,7 @@ for idx in indices_to_plot:
 ax1.plot(x[int(len(x)/2)], moy, 'ko')
 
 # Ajouter une annotation pour le point
-annotation_text = "Joueur : " + str(moy) +  " Points"
+annotation_text = "Joueur : " + str(rank) +  "ème"
 ax1.text(x[int(len(x)/2)] + 50, moy - 0.0027*moy, annotation_text, fontsize=8, color='k', weight='bold', fontname='verdana', verticalalignment='center', horizontalalignment='left')
 
 # Enlever les graduations de l'axe x
