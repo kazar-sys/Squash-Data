@@ -29,33 +29,68 @@ def createTab(joueurs, nom_tournoi):
         game[1] = "[" + str(game[1]) + "]" + " " + joueurs[game[1]-1]
 
     with open(f"Tableaux/Tableau {nom_tournoi}.txt", "w") as fichier:
-
+        i = 0
         for games in tab:
             fichier.write(str(games[0]) + "\n" + str(games[1]) + "\n" + "\n")
-
+            i += 1
+            if i%2 == 0:
+                fichier.write("\n")
+                fichier.write("\n")
+                fichier.write("\n")
     return None
 
 
 
 # Input : liste de joueurs
-nom_tournoi = "Tournoi Verrières 19 janvier 2025"
+nom_tournoi = "Championnet IDF 2eme série 2025 Squash 95"
 joueurs = [
-    "SOHEIB BAARIR 3B 499",
-    "DANY VERY 3B 577",
-    "VINCENT POTTIER 3C 721",
-    "FRANCK LEDOUX 3C 784",
-    "NICOLAS ZEVACO 3C 787",
-    "BRUNO JUBERT 3D 801",
-    "ARTHUR WAISBLAT 3D 879",
-    "SIMON ZARKA 3D 880",
-    "NICOLAS NGUYEN 3D 947",
-    "GAEL DERRE 4A 10593",
-    "LAURENT MARIE 4A 1138",
-    "JEREMY ROUANNE 4A 1278",
-    "STEPHANE DUBOIS 4B 1462",
-    "CHISTOPHE LECHENNE 4B 1506",
-    "ARNAUD GESTAT DE GARAMBE 4B 1555",
-    "GARY ATTAL 4B 1590"
+    "SERUSIER Jérôme 2A 43",
+    "PINEAU Jean-Jacques 2A 59",
+    "BAUDRY Théo 2B 62",
+    "LECORDIER Ethan 2B 79",
+    "RAMEAU Ethan 2B 101",
+    "VIMAL DE MURS Lilian 2B 105",
+    "SCIANIMANICO Thierry 2C 113",
+    "LAUTIER Mathis 2C 115",
+    "RAMEAU Samuel 2C 156",
+    "MOSLEHI Kousha 2C 179",
+    "SANIEZ Henri 2D 207",
+    "BARBET Jules 2D 238",
+    "CAVE Thomas 2D 273",
+    "WEISZ Frederic 3A 308",
+    "BALLAY Nolann 3A 336",
+    "SOUDAZ Thomas 3A 354",
+    "RETIERE Maxence 3A 400",
+    "SAIZ Franck 3A 421",
+    "BERTHE Yann-Hoel 3B 431",
+    "RIFFLE Benjamin 3B 433",
+    "COCHERIL Titouan 3B 451",
+    "RAMEAU Adam 3B 462",
+    "DE ZEEUM Jean-Luc 3B 463",
+    "GABORIT Romain 3B 475",
+    "LY Benjamin 3B 528",
+    "PIQUERAS Jules 3B 530",
+    "CARUANA Florent 3B 533",
+    "MAILLIARD Julien 3B 546",
+    "LLEDO Antoine 3B 545",
+    "QUEMIN Simon 3B 568",
+    "MERLAND Renaud 3B 585",
+    "PETIT Benjamin 3C 602",
+    "GAESLER Nicolas 3C 623",
+    "HAMERY Paul 3C 664",
+    "ROUSSET Antonin 3C 679",
+    "ZARKA Simon 3C 736",
+    "QUINQUEMPOIS Stéphane 3C 743",
+    "ZUBIALDE Jérôme 3C 748",
+    "SCHLUMBERGER Marc 3D 872",
+    "CLEMENT Paul 3D 874",
+    "WAISBLAT Arthur 3D 879",
+    "PAULIN Jeremy 3D 930",
+    "MERCIER Grégory 4A 1043",
+    "DA SILVA Filipe 4A 1277",
+    "ALIET David 4B 1535",
+    "HERISSON Rémi 4B 1628",
+    "PIQUERAS José 4C 2037"
 ]
 
 createTab(joueurs, nom_tournoi)
