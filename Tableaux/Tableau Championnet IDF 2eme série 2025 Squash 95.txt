@@ -1,50 +1,50 @@
-[1] SERUSIER Jï¿½rï¿½me 2A 43
+[1] SERUSIER Jérôme 2A 43
 [64] Bye
 
-[33] GAESLER Nicolas 3C 623
-[32] PETIT Benjamin 3C 602
+[33] PETIT Benjamin 3C 602
+[32] MERLAND Renaud 3B 585
 
 
 
 
 [17] RETIERE Maxence 3A 400
-[48] Bye
+[48] ALIET David 4B 1535
 
-[49] Bye
+[49] PIQUERAS José 4C 2037
 [16] SOUDAZ Thomas 3A 354
 
 
 
 
-[9] RAMEAU Samuel 2C 156
+[9] MOSLEHI Kousha 2C 179
 [56] Bye
 
-[41] WAISBLAT Arthur 3D 879
+[41] SCHLUMBERGER Marc 3D 872
 [24] GABORIT Romain 3B 475
 
 
 
 
-[25] LY Benjamin 3B 528
-[40] CLEMENT Paul 3D 874
+[25] PHAM-GIA Vinh 3B 475
+[40] MANTEZ Pierre 3D 799
 
 [57] Bye
-[8] LAUTIER Mathis 2C 115
+[8] RAMEAU Samuel 2C 156
 
 
 
 
-[5] RAMEAU Ethan 2B 101
+[5] SCIANIMANICO Thierry 2C 113
 [60] Bye
 
-[37] QUINQUEMPOIS Stï¿½phane 3C 743
-[28] MAILLIARD Julien 3B 546
+[37] ZARKA Simon 3C 736
+[28] PIQUERAS Jules 3B 530
 
 
 
 
 [21] COCHERIL Titouan 3B 451
-[44] DA SILVA Filipe 4A 1277
+[44] MERCIER Grégory 4A 1043
 
 [53] Bye
 [12] BARBET Jules 2D 238
@@ -55,32 +55,32 @@
 [13] CAVE Thomas 2D 273
 [52] Bye
 
-[45] ALIET David 4B 1535
+[45] DEMOT Eric 4A 1062
 [20] RIFFLE Benjamin 3B 433
 
 
 
 
-[29] LLEDO Antoine 3B 545
-[36] ZARKA Simon 3C 736
+[29] CARUANA Florent 3B 533
+[36] ROUSSET Antonin 3C 679
 
 [61] Bye
-[4] LECORDIER Ethan 2B 79
+[4] VIMAL DE MURS Lilian 2B 105
 
 
 
 
-[3] BAUDRY Thï¿½o 2B 62
+[3] LECORDIER Ethan 2B 79
 [62] Bye
 
-[35] ROUSSET Antonin 3C 679
-[30] QUEMIN Simon 3B 568
+[35] HAMERY Paul 3C 664
+[30] MAILLIARD Julien 3B 546
 
 
 
 
 [19] BERTHE Yann-Hoel 3B 431
-[46] HERISSON Rï¿½mi 4B 1628
+[46] BORDES Jean-Pierre 4A 1073
 
 [51] Bye
 [14] WEISZ Frederic 3A 308
@@ -91,35 +91,35 @@
 [11] SANIEZ Henri 2D 207
 [54] Bye
 
-[43] MERCIER Grï¿½gory 4A 1043
+[43] PAULIN Jeremy 3D 930
 [22] RAMEAU Adam 3B 462
 
 
 
 
-[27] CARUANA Florent 3B 533
-[38] ZUBIALDE Jï¿½rï¿½me 3C 748
+[27] LY Benjamin 3B 528
+[38] QUINQUEMPOIS Stéphane 3C 743
 
 [59] Bye
-[6] VIMAL DE MURS Lilian 2B 105
+[6] LAUTIER Mathis 2C 115
 
 
 
 
-[7] SCIANIMANICO Thierry 2C 113
+[7] MAUROY Guillaume 2C 134
 [58] Bye
 
-[39] SCHLUMBERGER Marc 3D 872
-[26] PIQUERAS Jules 3B 530
+[39] ZUBIALDE Jérôme 3C 748
+[26] INDERBITZIN Matthieu 3B 521
 
 
 
 
 [23] DE ZEEUM Jean-Luc 3B 463
-[42] PAULIN Jeremy 3D 930
+[42] WAISBLAT Arthur 3D 879
 
 [55] Bye
-[10] MOSLEHI Kousha 2C 179
+[10] LAURENT Rémi 2C 194
 
 
 
@@ -127,14 +127,18 @@
 [15] BALLAY Nolann 3A 336
 [50] Bye
 
-[47] PIQUERAS Josï¿½ 4C 2037
+[47] DA SILVA Filipe 4A 1277
 [18] SAIZ Franck 3A 421
 
 
 
 
-[31] MERLAND Renaud 3B 585
-[34] HAMERY Paul 3C 664
+[31] LLEDO Antoine 3B 545
+[34] GAESLER Nicolas 3C 623
 
 [63] Bye
-[2] PINEAU Jean-Jacques 2A 59
+[2] BAUDRY Théo 2B 62
+
+
+
+
