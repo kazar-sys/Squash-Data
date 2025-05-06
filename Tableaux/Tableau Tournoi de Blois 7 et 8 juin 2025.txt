@@ -1,143 +1,143 @@
-[1] SERUSIER Jérôme 2A 47
+[1] SERUSIER Jérôme 2A 44
 [64] Bye
 
-[33] BONHOMME Sebastien 4B 1640
-[32] MARTINEZ Maxime 4B 1562
+[33] MARTINEZ Maxime 4B 1598
+[32] GRANDPERRIN Jonathan 4B 1573
 
 
 
 
-[17] MAGIERA Oscar 3C 673
+[17] LOUP Jean-Baptiste 3C 646
 [48] Bye
 
 [49] Bye
-[16] CRUZ Daniel 3C 667
+[16] MAGIERA Oscar 3C 641
 
 
 
 
-[9] LEROY Alexandre 2D 295
+[9] LEROY Alexandre 2D 280
 [56] Bye
 
-[41] GUERIN Frederic 4D 2587
-[24] LUBINEAU Olivier 3D 793
+[41] CLEMENT Franck 4D 2746
+[24] JORIS Florian 3C 767
 
 
 
 
-[25] CLEMENT Paul 3D 840
-[40] BRETON Philippe 4D 2518
+[25] CLEMENT Paul 3D 801
+[40] GUERIN Frederic 4D 2532
 
 [57] Bye
-[8] PAILLER Kevin 3A 304
+[8] PAILLER Kevin 3A 301
 
 
 
 
-[5] ZARKA Fabien 2C 189
+[5] ZARKA Fabien 2C 188
 [60] Bye
 
-[37] JAMOT Edouard 4C 1873
-[28] BOUTET Hugues 3D 950
+[37] BULLIARD-JANNOT Tao 4C 1862
+[28] BOUTET Hugues 3D 957
 
 
 
 
-[21] GARBIN Laurent 3C 721
-[44] MARTINEZ Guillaume 5A 3349
+[21] GUINE Yael 3C 695
+[44] MARTINEZ Guillaume 5A 3468
 
 [53] Bye
-[12] LE COQ Franck 3B 480
+[12] LE COQ Franck 3B 467
 
 
 
 
-[13] COTELLE Fabrice 3B 542
+[13] COTELLE Fabrice 3B 556
 [52] Bye
 
-[45] LEROY Maurice 5C 5782
-[20] POTTIER Vincent 3C 711
+[45] LEROY Maurice 5C 5458
+[20] LUBINEAU Olivier 3C 662
 
 
 
 
-[29] LAASAMI Naim 4B 1363
-[36] BULLIARD-JANNOT Tao 4C 1860
+[29] LAASAMI Naim 4A 1252
+[36] JAMOT Edouard 4C 1848
 
 [61] Bye
-[4] BOULDOIRE Benjamin 2B 91
+[4] BOULDOIRE Benjamin 2B 92
 
 
 
 
-[3] PINEAU Jean-Jacques 2A 59
+[3] PINEAU Jean-Jacques 2B 66
 [62] Bye
 
-[35] CAYET Arnaud 4C 1693
-[30] TEMPLIER Maël 4B 1573
+[35] CAYET Arnaud 4B 1684
+[30] TEMPLIER Maël 4B 1515
 
 
 
 
-[19] JULIAN Tristan 3C 668
-[46] MATHIEUX Nicolas 5D 7233
+[19] SOULEILLAN Gregory 3C 652
+[46] MATHIEUX Nicolas 5D 7249
 
 [51] Bye
-[14] ZARKA Simon 3B 580
+[14] ZARKA Simon 3B 560
 
 
 
 
-[11] MEZIANE Mehdi 3A 428
+[11] MEZIANE Mehdi 3A 422
 [54] Bye
 
-[43] BOUTET Emmanuel 5A 3299
-[22] JORIS Florian 3C 732
+[43] BOUTET Emmanuel 5A 3396
+[22] POTTIER Vincent 3C 699
 
 
 
 
-[27] LECOQ Christophe 3D 924
-[38] BILQUARD Jean-Chrales 4C 1903
+[27] LECOQ Christophe 3D 910
+[38] BILQUARD Jean-Chrales 4C 1875
 
 [59] Bye
-[6] PEREZ Thibault 2D 254
+[6] PEREZ Thibault 2D 249
 
 
 
 
-[7] FONTAINE Sylvain 2D 286
+[7] FONTAINE Sylvain 2D 282
 [58] Bye
 
-[39] RENON Ludovic 4C 2068
-[26] DEBAQUE Romuald 3D 869
+[39] RENON Ludovic 4C 2104
+[26] DEBAQUE Romuald 3D 859
 
 
 
 
-[23] GUINE Yael 3C 754
-[42] CLEMENT Franck 4D 2776
+[23] GARBIN Laurent 3C 702
+[42] BRETON Philippe 5A 2924
 
 [55] Bye
-[10] HARRIAU Jules 3A 367
+[10] HARRIAU Jules 3A 323
 
 
 
 
-[15] LOUP Jean-Baptiste 3C 659
+[15] CRUZ Daniel 3C 622
 [50] Bye
 
 [47] Bye
-[18] SOULEILLAN Gregory 3C 695
+[18] JULIAN Tristan 3C 647
 
 
 
 
-[31] BREUILLAUD Antoine 4B 1526
-[34] GRANDPERRIN Jonathan 4B 1668
+[31] BREUILLAUD Antoine 4B 1506
+[34] BONHOMME Sebastien 4B 1607
 
 [63] Bye
-[2] BENOIT Matthieu 2A 54
+[2] BENOIT Matthieu 2A 52
 
 
 
