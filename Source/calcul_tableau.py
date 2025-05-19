@@ -44,12 +44,14 @@ def createTab(joueurs, nom_tournoi):
 # Input : liste de joueurs
 nom_tournoi = "Tournoi de Blois 7 et 8 juin 2025"
 joueurs = [
-    "SERUSIER Jérôme 2A 44",
+    "SERUSIER Jerome 2A 44",
     "BENOIT Matthieu 2A 52",
     "PINEAU Jean-Jacques 2B 66",
     "BOULDOIRE Benjamin 2B 92",
+    "BONNIN Titouan 2B 84",
+    "GRISON Jules 2C 148",
     "ZARKA Fabien 2C 188",
-    "PEREZ Thibault 2D 249",
+    "GOMBERT Flavian 2D 221",
     "FONTAINE Sylvain 2D 282",
     "PAILLER Kevin 3A 301",
     "LEROY Alexandre 2D 280",
@@ -66,7 +68,6 @@ joueurs = [
     "LUBINEAU Olivier 3C 662",
     "GUINE Yael 3C 695",
     "POTTIER Vincent 3C 699",
-    "GARBIN Laurent 3C 702",
     "JORIS Florian 3C 767",
     "CLEMENT Paul 3D 801",
     "DEBAQUE Romuald 3D 859",
@@ -83,12 +84,11 @@ joueurs = [
     "BULLIARD-JANNOT Tao 4C 1862",
     "BILQUARD Jean-Chrales 4C 1875",
     "RENON Ludovic 4C 2104",
-    "GUERIN Frederic 4D 2532",
     "CLEMENT Franck 4D 2746",
+    "GERBIER Julien 4D",
     "BRETON Philippe 5A 2924",
     "BOUTET Emmanuel 5A 3396",
     "MARTINEZ Guillaume 5A 3468",
-    "LEROY Maurice 5C 5458",
     "MATHIEUX Nicolas 5D 7249"
 ]
 
