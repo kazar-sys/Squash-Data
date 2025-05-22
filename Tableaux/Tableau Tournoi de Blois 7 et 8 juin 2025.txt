@@ -1,8 +1,8 @@
 [1] SERUSIER Jerome 2A 44
 [64] Bye
 
-[33] GRANDPERRIN Jonathan 4B 1573
-[32] BREUILLAUD Antoine 4B 1506
+[33] BREUILLAUD Antoine 4B 1506
+[32] TEMPLIER Maël 4B 1515
 
 
 
@@ -19,14 +19,14 @@
 [9] FONTAINE Sylvain 2D 282
 [56] Bye
 
-[41] CLEMENT Franck 4D 2746
+[41] RENON Ludovic 4C 2104
 [24] POTTIER Vincent 3C 699
 
 
 
 
 [25] JORIS Florian 3C 767
-[40] RENON Ludovic 4C 2104
+[40] BILQUARD Jean-Chrales 4C 1875
 
 [57] Bye
 [8] GOMBERT Flavian 2D 221
@@ -37,7 +37,7 @@
 [5] BONNIN Titouan 2B 84
 [60] Bye
 
-[37] JAMOT Edouard 4C 1848
+[37] CAYET Arnaud 4B 1684
 [28] LECOQ Christophe 3D 910
 
 
@@ -61,8 +61,8 @@
 
 
 
-[29] BOUTET Hugues 3D 957
-[36] CAYET Arnaud 4B 1684
+[29] CYRILE Charly 3D 935
+[36] BONHOMME Sebastien 4B 1607
 
 [61] Bye
 [4] BOULDOIRE Benjamin 2B 92
@@ -73,8 +73,8 @@
 [3] PINEAU Jean-Jacques 2B 66
 [62] Bye
 
-[35] BONHOMME Sebastien 4B 1607
-[30] LAASAMI Naim 4A 1252
+[35] MARTINEZ Maxime 4B 1598
+[30] BOUTET Hugues 3D 957
 
 
 
@@ -98,7 +98,7 @@
 
 
 [27] DEBAQUE Romuald 3D 859
-[38] BULLIARD-JANNOT Tao 4C 1862
+[38] JAMOT Edouard 4C 1848
 
 [59] Bye
 [6] GRISON Jules 2C 148
@@ -109,14 +109,14 @@
 [7] ZARKA Fabien 2C 188
 [58] Bye
 
-[39] BILQUARD Jean-Chrales 4C 1875
+[39] BULLIARD-JANNOT Tao 4C 1862
 [26] CLEMENT Paul 3D 801
 
 
 
 
 [23] GUINE Yael 3C 695
-[42] GERBIER Julien 4D
+[42] CLEMENT Franck 4D 2746
 
 [55] Bye
 [10] PAILLER Kevin 3A 301
@@ -133,8 +133,8 @@
 
 
 
-[31] TEMPLIER Maël 4B 1515
-[34] MARTINEZ Maxime 4B 1598
+[31] LAASAMI Naim 4A 1252
+[34] GRANDPERRIN Jonathan 4B 1573
 
 [63] Bye
 [2] BENOIT Matthieu 2A 52
