@@ -1,32 +1,32 @@
 [1] SERUSIER Jerome 2A 44
 [64] Bye
 
-[33] BREUILLAUD Antoine 4B 1506
-[32] TEMPLIER Maël 4B 1515
+[33] TEMPLIER Maël 4B 1515
+[32] BREUILLAUD Antoine 4B 1506
 
 
 
 
-[17] CRUZ Daniel 3C 622
-[48] Bye
+[17] ZARKA Simon 3B 560
+[48] MATHIEUX Nicolas 5D 7249
 
 [49] Bye
-[16] ZARKA Simon 3B 560
+[16] COTELLE Fabrice 3B 556
 
 
 
 
-[9] FONTAINE Sylvain 2D 282
+[9] LEROY Alexandre 2D 280
 [56] Bye
 
-[41] RENON Ludovic 4C 2104
-[24] POTTIER Vincent 3C 699
+[41] BILQUARD Jean-Chrales 4C 1875
+[24] JORIS Florian 3C 767
 
 
 
 
-[25] JORIS Florian 3C 767
-[40] BILQUARD Jean-Chrales 4C 1875
+[25] CLEMENT Paul 3D 801
+[40] BULLIARD-JANNOT Tao 4C 1862
 
 [57] Bye
 [8] GOMBERT Flavian 2D 221
@@ -34,17 +34,17 @@
 
 
 
-[5] BONNIN Titouan 2B 84
+[5] BOULDOIRE Benjamin 2B 92
 [60] Bye
 
-[37] CAYET Arnaud 4B 1684
-[28] LECOQ Christophe 3D 910
+[37] PIERSON Raoul 4B 1660
+[28] CYRILE Charly 3D 935
 
 
 
 
-[21] SOULEILLAN Gregory 3C 652
-[44] BOUTET Emmanuel 5A 3396
+[21] LUBINEAU Olivier 3C 662
+[44] BRETON Philippe 5A 2924
 
 [53] Bye
 [12] HARRIAU Jules 3A 323
@@ -55,17 +55,17 @@
 [13] MEZIANE Mehdi 3A 422
 [52] Bye
 
-[45] MARTINEZ Guillaume 5A 3468
+[45] BOUTET Emmanuel 5A 3396
 [20] JULIAN Tristan 3C 647
 
 
 
 
-[29] CYRILE Charly 3D 935
+[29] BOUTET Hugues 3D 957
 [36] BONHOMME Sebastien 4B 1607
 
 [61] Bye
-[4] BOULDOIRE Benjamin 2B 92
+[4] BONNIN Titouan 2B 84
 
 
 
@@ -74,31 +74,31 @@
 [62] Bye
 
 [35] MARTINEZ Maxime 4B 1598
-[30] BOUTET Hugues 3D 957
+[30] LAASAMI Naim 4A 1252
 
 
 
 
-[19] LOUP Jean-Baptiste 3C 646
-[46] MATHIEUX Nicolas 5D 7249
+[19] MAGIERA Oscar 3C 641
+[46] MARTINEZ Guillaume 5A 3468
 
 [51] Bye
-[14] LE COQ Franck 3B 467
+[14] ALCARAZ Cedric 3B 439
 
 
 
 
-[11] LEROY Alexandre 2D 280
+[11] PAILLER Kevin 3A 301
 [54] Bye
 
-[43] BRETON Philippe 5A 2924
-[22] LUBINEAU Olivier 3C 662
+[43] DO CARMO Jeremy 4C 2122
+[22] GUINE Yael 3C 695
 
 
 
 
-[27] DEBAQUE Romuald 3D 859
-[38] JAMOT Edouard 4C 1848
+[27] LECOQ Christophe 3D 910
+[38] CAYET Arnaud 4B 1684
 
 [59] Bye
 [6] GRISON Jules 2C 148
@@ -109,31 +109,31 @@
 [7] ZARKA Fabien 2C 188
 [58] Bye
 
-[39] BULLIARD-JANNOT Tao 4C 1862
-[26] CLEMENT Paul 3D 801
+[39] JAMOT Edouard 4C 1848
+[26] DEBAQUE Romuald 3D 859
 
 
 
 
-[23] GUINE Yael 3C 695
-[42] CLEMENT Franck 4D 2746
+[23] POTTIER Vincent 3C 699
+[42] RENON Ludovic 4C 2104
 
 [55] Bye
-[10] PAILLER Kevin 3A 301
+[10] FONTAINE Sylvain 2D 282
 
 
 
 
-[15] COTELLE Fabrice 3B 556
+[15] LE COQ Franck 3B 467
 [50] Bye
 
-[47] Bye
-[18] MAGIERA Oscar 3C 641
+[47] DESLANDES Guillaume 5A 3750
+[18] CRUZ Daniel 3C 622
 
 
 
 
-[31] LAASAMI Naim 4A 1252
+[31] LAVIELLE Pascal 4B 1394
 [34] GRANDPERRIN Jonathan 4B 1573
 
 [63] Bye
