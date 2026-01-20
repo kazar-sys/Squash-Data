@@ -22,16 +22,28 @@ excel_file = "data/Actions Simon.xlsx"
 # Lire le fichier Excel
 df = pd.read_excel(excel_file)
 
+df['Date'] = pd.to_datetime(df['Date'])
+# Nettoyage robuste de la colonne Points
+df['Points'] = (
+    df['Points']
+    .astype(str)
+    .str.replace(",", "", regex=False)
+    .str.replace(" ", "", regex=False)
+    .astype(int)
+)
+
 # Liste pour stocker les données
 donnees = []
 
 # Parcourir chaque ligne du DataFrame
-for index, row in df.iterrows():
-    # Ajouter la ligne à la liste de données
-    if row['Points'] == int(row['Points']):
-        donnees.append({'Points': int(row['Points']), 'Date': row['Date'], 'Expired': False, 'Type': row['Type de tournoi'], 'Localisation': row['Type de points']})
-    else:
-        donnees.append({'Points': float(row['Points']), 'Date': row['Date'], 'Expired': False, 'Type': row['Type de tournoi'], 'Localisation': row['Type de points']})
+for _, row in df.iterrows():
+    donnees.append({
+        'Points': row['Points'],
+        'Date': row['Date'],
+        'Expired': False,
+        'Type': row['Type de tournoi'],
+        'Localisation': row['Type de points']
+    })
 
 # Stocker les % de victoires et de défaites
 win_rate = df.iloc[0]["Total Gagnés"]
