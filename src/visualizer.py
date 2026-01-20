@@ -105,7 +105,7 @@ def generate_html_report(res, rates):
     fig.update_yaxes(title="Rang", gridcolor=grid_light, row=2, col=1)
 
     headers = ["Points", "Date", "Type", "Localisation"]
-    sorted_best = sorted(res['best'], key=lambda x: x['Points'], reverse=True)
+    sorted_best = sorted(res['best'], key=lambda x: x['Points'], reverse=False)
     
     num_rows = len(sorted_best)
     row_colors = [zebra_color if i % 2 == 0 else "white" for i in range(num_rows)]
